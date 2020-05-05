@@ -1,0 +1,9 @@
+This code is for paper Online Federated Multitask Learning.
+
+run average_error_vs_number_of_device.m, err_ofmtl and time_ofmtl is the corresponding err and time for algorithm ofmtl.
+
+ofmtl.m is the code of algorithm ofmtl
+
+baseline file contains the code for three baselines, including local_svm, global_svm and mocha.
+
+data file contains three dataset we have used.
